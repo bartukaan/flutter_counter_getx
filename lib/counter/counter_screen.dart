@@ -1,4 +1,4 @@
-import 'package:counter_with_get/counter_controller.dart';
+import 'file:///E:/Users/bpideci/Projects/Flutter/counter_with_get/lib/counter/counter_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
